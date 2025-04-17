@@ -1,4 +1,4 @@
-# Ultimate Log Viewer Pro
+# Ultimate Log Viewer
 ```
    __  __    __   __     _                        __                  __                         _    __    _                               
   / / / /   / /  / /_   (_)   ____ ___   ____ _  / /_  ___           / /   ____    ____ _       | |  / /   (_)  ___  _      __  ___    _____
@@ -7,7 +7,7 @@
 \____/   /_/   \__/  /_/   /_/ /_/ /_/ \__,_/  \__/  \___/        /_____/\____/  \__, /         |___/   /_/   \___/ |__/|__/  \___/ /_/     
                                                                                 /____/                                                      
 ```
-**Ultimate Log Viewer Pro** is a powerful and flexible Python tool designed for parsing, viewing, filtering, and analyzing various log file formats. It provides both a feature-rich Graphical User Interface (GUI) and a versatile Command-Line Interface (CLI) to cater to different user preferences and workflows.
+**Ultimate Log Viewer** is a powerful and flexible Python tool designed for parsing, viewing, filtering, and analyzing various log file formats. It provides both a feature-rich Graphical User Interface (GUI) and a versatile Command-Line Interface (CLI) to cater to different user preferences and workflows.
 
 Analyze Windows EVTX, XML exports, Linux Syslog, macOS logs, and more with advanced filtering (including regex), column sorting, customizable views, and export capabilities.
 
